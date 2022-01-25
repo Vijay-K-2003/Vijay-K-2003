@@ -6,8 +6,6 @@
 ### Contribution Graph
 [![Vijay's github activity graph](https://activity-graph.herokuapp.com/graph?username=Vijay-K-2003&custom_title=Contribution%20Graph&hide_border=true&theme=react-dark)](https://github.com/Vijay-K-2003/github-readme-activity-graph)
 
-<a href="https://app.daily.dev/vjk03"><img src="https://api.daily.dev/devcards/683739b4ee3941d9be2dffdc86ca72bd.png?r=l16" width="400" alt="Vijay K's Dev Card"/></a>
-
 <!--
 **Vijay-K-2003/Vijay-K-2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
