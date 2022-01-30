@@ -5,8 +5,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vijay-K-2003)](https://github.com/Vijay-K-2003/github-readme-stats)
 ### Contribution Graph
 [![Vijay's github activity graph](https://activity-graph.herokuapp.com/graph?username=Vijay-K-2003&custom_title=Contribution%20Graph&hide_border=true&theme=react-dark)](https://github.com/Vijay-K-2003/github-readme-activity-graph)
+### Streak
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vijay-K-2003&theme=gotham&hide_border=true" alt="Vijay's Github Streak" width="600"/>
 
-<!--
+  <!--
 **Vijay-K-2003/Vijay-K-2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
