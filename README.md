@@ -1,4 +1,9 @@
 ### Hi there 👋 I am Vijay.
+<ul>
+  Connect to me on <li><a href="https://www.linkedin.com/in/vijay-k-2003/">LinkedIn</a> </li>
+  <li><a href="https://twitter.com/Vijay3Karanjkar">Twitter</a></li>
+  </ul>
+
 ### These are my Github Stats
 ![Vijay's Github Stats](https://github-readme-stats.vercel.app/api?username=Vijay-K-2003&show_icons=true&theme=radical)
 ### Top Languages
