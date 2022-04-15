@@ -13,6 +13,7 @@
 ### Streak
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vijay-K-2003&theme=gotham&hide_border=true" alt="Vijay's Github Streak" width="600"/>
 
+<img src="https://komarev.com/ghpvc/?username=Vijay-K-2003&label=Profile%20Views&color=0e75b6&style=flat" alt="Vijay-K-2003" />
   <!--
 **Vijay-K-2003/Vijay-K-2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
