@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AWS.<br>👯 I’m looking to collaborate on Web Projects.<br>🤝 I’m looking for help with Kubernetes.<br>🌱 I’m currently learning Docker.<br>💬 Ask me about React.js, Node.js, Golang, Docker, Elasticsearch.
+🔭 I’m currently working on AWS.<br>👯 I’m looking to collaborate on Web Projects.<br>🤝 I’m looking for help with Kubernetes.<br>🌱 I’m currently learning Docker.<br>💬 Ask me about React.js, Node.js, Golang, Docker.
 
 
 ## 🌐 Socials:
